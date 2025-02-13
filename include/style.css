@@ -28,8 +28,8 @@ p{
     background: -webkit-gradient(linear, 
     left top, 
     left bottom, 
-    from(#191C47), 
-    to(#191C47)
+    from(#553370), 
+    to(#553370)
     );
     box-sizing: inset 2px 2px 2px rgba(255, 255, 255, 0.25),
     inset -2px -2px -2px rgba(0, 0, 0, 0.25);
@@ -221,7 +221,7 @@ p{
 .section-title > h3 {
   font-size: 20px;
   text-transform: uppercase;
-  color: #191C47;
+  color: #553370;
 }
 .section-title > h4 {
   font-family: "Poppins", serif;
@@ -255,7 +255,7 @@ p{
 
 /* Highlight section style  */
 .highlights {
-  background-color: #2730af73;
+  background-color: #86C493;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -463,7 +463,8 @@ p{
   color: #13261F;
 }
 .gallery img {
-  width: 100%;
+  width: 415px;
+  height: 415px;
 }
 .gallery {
   padding-bottom: 100px;
@@ -480,7 +481,7 @@ p{
   width: 2.5rem !important;
   height: 2.5rem !important;
   border-radius: 0 !important;
-  background-color: #191C47 !important;
+  background-color: #553370 !important;
   right: 100px;
 }
 .splide__arrow svg {
@@ -551,7 +552,7 @@ p{
 }
 
 .map-content {
-  background: #2730af73;
+  background: #86C493;
   /*color: #fff;*/
   /*height: 100%;*/
   flex: 3;
@@ -582,7 +583,7 @@ p{
 /* Plans start */
 
 #plans {
-    background-color:#2730af73;
+    background-color:#86C493;
   padding: 80px 0 130px 0;
 }
 
@@ -602,7 +603,7 @@ p{
   filter: blur(4px);
   width: 100% !important;
   height: 100%;
-  background-image: url(../images/1rk.webp);
+  background-image: url(../images/1bhk.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 2px 13px 34px 35px rgba(0, 0, 0, 0.47);
@@ -611,7 +612,7 @@ p{
     filter: blur(4px);
   width: 100% !important;
   height: 100%;
-  background-image: url(../images/1bhk.webp);
+  background-image: url(../images/2bhk.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 2px 13px 34px 35px rgba(0, 0, 0, 0.47);
@@ -624,7 +625,7 @@ p{
   padding: 13px 32px;
   border: none;
   outline: none;
-  background: #191C47;
+  background: #553370;
   color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -748,7 +749,7 @@ p{
   bottom: 0px;
   left: 50%;
   transform: translateX(-50%);
-  background:#191C47;
+  background:#553370;
   padding: 10px 30px;
   display: flex;
   gap: 20px;
@@ -826,7 +827,7 @@ p{
 }
 
 .modal-form {
-  background: #191C47;
+  background: #553370;
   color: #fff;
   padding: 40px 30px;
   width: 600px;
@@ -904,7 +905,7 @@ p{
   right: -15px;
   width: 40px;
   cursor: pointer;
-  background: #191C47;
+  background: #553370;
   box-shadow: 0 0 10px 2px #00000033;
   padding: 5px;
 }
@@ -930,19 +931,19 @@ p{
   padding: 10px 0;
   border: none;
   font-size: 14px;
-  border-top: 1px solid #191C47;
+  border-top: 1px solid #553370;
   cursor: pointer;
-  background: #2730af73;
+  background: #86C493;
   color: #000;
 }
 
 .bottom-buttons button:last-child{
-  background: #191C47;
+  background: #553370;
   color:#fff;
 }
 
 .bottom-buttons button:last-child {
-  border-left: 1px solid #191C47;
+  border-left: 1px solid #553370;
 }
 
 .toast {
@@ -1018,7 +1019,7 @@ input[type="number"]::-webkit-outer-spin-button {
     }
 
     .popup-header {
-      background: #191C47;
+      background: #553370;
       color: white;
       padding: 15px;
       font-size: 18px;
@@ -1041,7 +1042,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
     .popup-footer button {
       padding: 5px 15px;
-      background: #191C47;
+      background: S553370;
       color: white;
       border: none;
       border-radius: 5px;
@@ -1213,7 +1214,7 @@ input[type="number"]::-webkit-outer-spin-button {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: #2730af73;
+  background: #86C493;
 }
 
 .thankyouContent{
@@ -1262,7 +1263,7 @@ input[type="number"]::-webkit-outer-spin-button {
   padding: 13px 32px;
   border: none;
   outline: none;
-  background: #191C47 !important;
+  background: #553370 !important;
   color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -1277,7 +1278,7 @@ input[type="number"]::-webkit-outer-spin-button {
     border: 1px solid #fff;
     padding: 8px 20px;
     color: #fff;
-    background: #191C47;
+    background: #553370;
 }
 @media screen and (max-width: 600px) {
     .db-btn{
