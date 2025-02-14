@@ -39,7 +39,7 @@ p{
     height: 100px;
     width: 100%;
     background-color: #ffffff;
-    position: relative;
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1279,6 +1279,9 @@ input[type="number"]::-webkit-outer-spin-button {
     padding: 8px 20px;
     color: #fff;
     background: #553370;
+}
+.splide.is-initialized, .splide.is-rendered{
+    margin-top: 100px !important;
 }
 @media screen and (max-width: 600px) {
     .db-btn{
