@@ -1299,9 +1299,6 @@ input[type="number"]::-webkit-outer-spin-button {
         font-size:12px;
     }
 }
-.amenities-border img{
-    width: 70%;
-}
 @keyframes modalanim {
   from {
     opacity: 0;
