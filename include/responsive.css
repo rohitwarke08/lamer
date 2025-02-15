@@ -44,9 +44,8 @@
   
     .amenities,
     .about-developer,
-    .gallery,
     #footer {
-        padding: 0 0 60px 0; /* Adjusted padding for smaller screens */
+        padding: 60px 0; /* Adjusted padding for smaller screens */
       }
       
       .theme-padding {
