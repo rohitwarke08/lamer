@@ -36,7 +36,7 @@ p{
 }
 
 .my-nav {
-    height: 100px;
+    height: 80px;
     width: 100%;
     background-color: #ffffff;
     position: fixed;
@@ -1296,6 +1296,10 @@ input[type="number"]::-webkit-outer-spin-button {
     }
     .AMENITIES-h5{
         font-size:12px;
+    }
+    .section-title > h3 {
+    font-weight: 600 !important;
+    font-size: 20px;
     }
 }
 @keyframes modalanim {
