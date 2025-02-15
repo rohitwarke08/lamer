@@ -1283,6 +1283,9 @@ input[type="number"]::-webkit-outer-spin-button {
     width: 100% !important;
     height: 100% !important;
 }
+.Gallery-title{
+    margin-bottom: -40px !important;
+}
 @media screen and (max-width: 600px) {
     .db-btn{
         text-align: center;
